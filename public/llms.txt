@@ -1,0 +1,45 @@
+# CompBiz — Generative Engine Optimization Map
+
+> A טכנולוגיה ושירותי IT business.
+
+---
+
+## Pages
+
+### Home
+https://compbiz-a68e2f45.zappy5.app
+שירותי מחשוב מתקדמים לעסקים בחיפה והסביבה. טכנאי מחשבים, גיבוי בענן, פתרונות תקשורת ושירותי ענן מתקדמים לעסקים וארגונים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://compbiz-a68e2f45.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://compbiz-a68e2f45.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://compbiz-a68e2f45.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About CompBiz
+CompBiz is a business in the טכנולוגיה ושירותי IT industry.
+
+## Target Audience
+מגזר עסקי
+
+## Industry
+טכנולוגיה ושירותי IT
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://compbiz-a68e2f45.zappy5.app/sitemap.xml
+- **Robots.txt**: https://compbiz-a68e2f45.zappy5.app/robots.txt
